@@ -2,8 +2,11 @@ Notas para un curso de Fundamentación en Computación
 =============================================
 
 > Sebastián Duque Mesa
+
 > Instituto de Física
+
 > Universidad de Antioquia
+
 > sebastian.duquem _AT_ udea.edu.co
 
 Ejecute los notebooks de ipython interactivamente en [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/sduquemesa/fundComputacion)

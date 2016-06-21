@@ -11,7 +11,7 @@ Notas para un curso de Fundamentación en Computación
 
 Ejecute los notebooks de ipython interactivamente en [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/sduquemesa/fundComputacion)
 
-Este archivo ha sido encrito en formato wiki Markdown: 
+Este archivo ha sido escrito en formato wiki Markdown: 
 
 * [Help](http://daringfireball.net/projects/markdown/syntax)
 * [Example in GithHub](https://raw.github.com/github/gollum/master/README.md)
